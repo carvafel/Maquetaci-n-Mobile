@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.maquetacionmobile.app-release-60:/drawable_profile.png.flat",
+        "source": "com.example.maquetacionmobile.app-main-61:/drawable/profile.png"
+    },
+    {
+        "merged": "com.example.maquetacionmobile.app-release-60:/drawable_download.png.flat",
+        "source": "com.example.maquetacionmobile.app-main-61:/drawable/download.png"
+    },
+    {
+        "merged": "com.example.maquetacionmobile.app-release-60:/drawable_profilepicture.png.flat",
+        "source": "com.example.maquetacionmobile.app-main-61:/drawable/profilepicture.png"
+    },
+    {
+        "merged": "com.example.maquetacionmobile.app-release-60:/drawable_checked.png.flat",
+        "source": "com.example.maquetacionmobile.app-main-61:/drawable/checked.png"
+    },
+    {
+        "merged": "com.example.maquetacionmobile.app-release-60:/drawable_calendar.png.flat",
+        "source": "com.example.maquetacionmobile.app-main-61:/drawable/calendar.png"
+    },
+    {
+        "merged": "com.example.maquetacionmobile.app-release-60:/drawable_star.png.flat",
+        "source": "com.example.maquetacionmobile.app-main-61:/drawable/star.png"
+    },
+    {
+        "merged": "com.example.maquetacionmobile.app-release-60:/drawable_logo.png.flat",
+        "source": "com.example.maquetacionmobile.app-main-61:/drawable/logo.png"
+    }
+]

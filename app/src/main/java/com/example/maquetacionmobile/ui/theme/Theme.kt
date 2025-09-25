@@ -6,6 +6,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.darkColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.CompositionLocalProvider
 
 private val LightColors: ColorScheme = lightColorScheme(
     primary = Primary,
@@ -28,9 +29,17 @@ fun AppTheme(
     content: @Composable () -> Unit
 ) {
     val colors = if (useDarkTheme) DarkColors else LightColors
-    MaterialTheme(
-        colorScheme = colors,
-        typography = AppTypography,
-        content = content
-    )
+    val extended = if (useDarkTheme) DarkExtendedColors else LightExtendedColors
+    CompositionLocalProvider(
+        LocalSpacing provides Spacing(),
+        LocalRadius provides Radius(),
+        LocalExtendedColors provides extended
+    ) {
+        MaterialTheme(
+            colorScheme = colors,
+            typography = AppTypography,
+            shapes = AppShapes,
+            content = content
+        )
+    }
 }
