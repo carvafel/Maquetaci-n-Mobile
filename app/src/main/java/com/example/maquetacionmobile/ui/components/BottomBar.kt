@@ -1,5 +1,6 @@
 package com.example.maquetacionmobile.ui.components
 
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -26,7 +27,14 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.unit.dp
 
 @Composable
-fun HomeBottomBar(modifier: Modifier = Modifier) {
+fun HomeBottomBar(
+    modifier: Modifier = Modifier,
+    onConfig: () -> Unit = {},
+    onAlarm: () -> Unit = {},
+    onHome: () -> Unit = {},
+    onReport: () -> Unit = {},
+    onProfile: () -> Unit = {}
+) {
     Surface(modifier = modifier.fillMaxWidth(), color = Color(0xFFF6E6E7)) {
         Column(modifier = Modifier.fillMaxWidth()) {
             Divider(color = Color(0xFFB9A9AA))
@@ -37,19 +45,19 @@ fun HomeBottomBar(modifier: Modifier = Modifier) {
                 horizontalArrangement = Arrangement.SpaceEvenly,
                 verticalAlignment = Alignment.CenterVertically
             ) {
-                BottomBarItem(icon = Icons.Outlined.Settings, label = "Config")
-                BottomBarItem(icon = Icons.Outlined.Schedule, label = "Alarma")
-                BottomBarItem(icon = Icons.Outlined.Home, label = "Home")
-                BottomBarItem(icon = Icons.Outlined.Description, label = "Reporte")
-                BottomBarItem(icon = Icons.Outlined.Person, label = "Perfil")
+                BottomBarItem(icon = Icons.Outlined.Settings, label = "Config", onClick = onConfig)
+                BottomBarItem(icon = Icons.Outlined.Schedule, label = "Alarma", onClick = onAlarm)
+                BottomBarItem(icon = Icons.Outlined.Home, label = "Home", onClick = onHome)
+                BottomBarItem(icon = Icons.Outlined.Description, label = "Reporte", onClick = onReport)
+                BottomBarItem(icon = Icons.Outlined.Person, label = "Perfil", onClick = onProfile)
             }
         }
     }
 }
 
 @Composable
-private fun BottomBarItem(icon: ImageVector, label: String) {
-    Column(horizontalAlignment = Alignment.CenterHorizontally) {
+private fun BottomBarItem(icon: ImageVector, label: String, onClick: () -> Unit) {
+    Column(horizontalAlignment = Alignment.CenterHorizontally, modifier = Modifier.clickable { onClick() }) {
         Icon(icon, contentDescription = label, tint = Color(0xFF0F172A))
         Spacer(Modifier.height(4.dp))
         Text(text = label, style = MaterialTheme.typography.bodyLarge, color = Color(0xFF0F172A))
