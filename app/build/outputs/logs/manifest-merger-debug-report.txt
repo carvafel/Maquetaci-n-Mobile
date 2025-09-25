@@ -116,9 +116,9 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\JUANITA\.gradle\ca
 	android:label
 		ADDED from C:\Users\JUANITA\OneDrive - Universidad de los Andes\Documentos\UNIVERSIDAD\2025-02\UX mejoramiento experiencia usario\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:7:9-41
 	android:roundIcon
-		ADDED from C:\Users\JUANITA\OneDrive - Universidad de los Andes\Documentos\UNIVERSIDAD\2025-02\UX mejoramiento experiencia usario\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:8:9-46
+		ADDED from C:\Users\JUANITA\OneDrive - Universidad de los Andes\Documentos\UNIVERSIDAD\2025-02\UX mejoramiento experiencia usario\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:8:9-43
 	android:icon
-		ADDED from C:\Users\JUANITA\OneDrive - Universidad de los Andes\Documentos\UNIVERSIDAD\2025-02\UX mejoramiento experiencia usario\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:6:9-41
+		ADDED from C:\Users\JUANITA\OneDrive - Universidad de los Andes\Documentos\UNIVERSIDAD\2025-02\UX mejoramiento experiencia usario\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:6:9-38
 	android:allowBackup
 		ADDED from C:\Users\JUANITA\OneDrive - Universidad de los Andes\Documentos\UNIVERSIDAD\2025-02\UX mejoramiento experiencia usario\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:5:9-35
 	android:theme
