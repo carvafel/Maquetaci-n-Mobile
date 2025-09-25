@@ -1,6 +1,7 @@
 package com.example.maquetacionmobile.feature.home
 
 import androidx.compose.foundation.Image
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -43,7 +44,8 @@ fun HomeScreen(
     onConfigClick: () -> Unit = {},
     onAlarmClick: () -> Unit = {},
     onReportClick: () -> Unit = {},
-    onProfileClick: () -> Unit = {}
+    onProfileClick: () -> Unit = {},
+    onBottomConfigClick: () -> Unit = {}
 ) {
     val extended = LocalExtendedColors.current
     val spacing = LocalSpacing.current
@@ -92,12 +94,15 @@ fun HomeScreen(
                     colors = ButtonDefaults.buttonColors(containerColor = Color(0xFFF19995)),
                     shape = RoundedCornerShape(5.dp),
                     contentPadding = PaddingValues()
-                ) {
+                )
+                {
                     Text(text = "Empezar alarma", style = MaterialTheme.typography.titleLarge, color = Color.White, fontWeight = FontWeight.Bold)
                 }
 
                 Spacer(Modifier.height(30.dp))
-                Box(modifier = Modifier.fillMaxWidth(), contentAlignment = Alignment.Center) {
+                Box(modifier = Modifier
+                    .fillMaxWidth()
+                    .clickable(onClick = onConfigClick), contentAlignment = Alignment.Center) {
                     Text(
                         text = "Configurar alarma",
                         style = MaterialTheme.typography.bodyLarge,
@@ -157,7 +162,14 @@ fun HomeScreen(
             }
             }
         }
-        HomeBottomBar(modifier = Modifier.align(Alignment.BottomCenter))
+        HomeBottomBar(
+            modifier = Modifier.align(Alignment.BottomCenter),
+            onConfig = onBottomConfigClick,
+            onAlarm = onAlarmClick,
+            onHome = { },
+            onReport = { /* stub */ },
+            onProfile = onProfileClick
+        )
     }
 }
 

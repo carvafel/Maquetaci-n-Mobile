@@ -14,6 +14,9 @@ import androidx.compose.foundation.layout.width
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.KeyboardArrowRight
+import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
@@ -26,6 +29,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.BorderStroke
+import androidx.compose.material3.Surface
+import androidx.compose.foundation.clickable
 import com.example.maquetacionmobile.ui.components.HomeBottomBar
 import com.example.maquetacionmobile.ui.theme.LocalExtendedColors
 import com.example.maquetacionmobile.ui.theme.LocalSpacing
@@ -36,7 +43,9 @@ import com.example.maquetacionmobile.ui.theme.responsivePadding
 fun AlarmConfigScreen(
     onSave: () -> Unit = {},
     onCancel: () -> Unit = {},
-    onStartAlarm: () -> Unit = {}
+    onStartAlarm: () -> Unit = {},
+    onClickSound: () -> Unit = {},
+    onClickVibration: () -> Unit = {}
 ) {
     val extended = LocalExtendedColors.current
     val spacing = LocalSpacing.current
@@ -73,15 +82,23 @@ fun AlarmConfigScreen(
             }
 
             Spacer(Modifier.height(24.dp))
-            SettingRow(label = "Sonido", value = sound.value)
-            SettingRow(label = "Vibración", value = vibration.value)
+            SettingRow(label = "Sonido", value = sound.value, onClick = onClickSound)
+            SettingRow(label = "Vibración", value = vibration.value, onClick = onClickVibration)
 
             Spacer(Modifier.height(24.dp))
             Row(horizontalArrangement = Arrangement.spacedBy(16.dp)) {
-                Button(onClick = onSave, colors = ButtonDefaults.buttonColors(containerColor = Color(0xFFF19995))) {
+                Button(
+                    onClick = onSave,
+                    colors = ButtonDefaults.buttonColors(containerColor = Color(0xFFF19995)),
+                    shape = RoundedCornerShape(5.dp)
+                ) {
                     Text("Guardar")
                 }
-                Button(onClick = onCancel, colors = ButtonDefaults.buttonColors(containerColor = Color(0xFFEAD0B6))) {
+                Button(
+                    onClick = onCancel,
+                    colors = ButtonDefaults.buttonColors(containerColor = Color(0xFFEAD0B6)),
+                    shape = RoundedCornerShape(5.dp)
+                ) {
                     Text("Cancelar", color = Color(0xFF000000))
                 }
             }
@@ -90,21 +107,40 @@ fun AlarmConfigScreen(
             Button(
                 onClick = onStartAlarm,
                 modifier = Modifier.fillMaxWidth(),
-                colors = ButtonDefaults.buttonColors(containerColor = Color(0xFFF19995))
+                colors = ButtonDefaults.buttonColors(containerColor = Color(0xFFF19995)),
+                shape = RoundedCornerShape(5.dp)
             ) { Text("Empezar alarma", color = Color.White, fontWeight = FontWeight.Bold) }
         }
 
-        HomeBottomBar(modifier = Modifier.align(Alignment.BottomCenter))
+        HomeBottomBar(
+            modifier = Modifier.align(Alignment.BottomCenter)
+        )
     }
 }
 
 @Composable
-private fun SettingRow(label: String, value: String) {
+private fun SettingRow(label: String, value: String, onClick: () -> Unit) {
     Column(modifier = Modifier.fillMaxWidth()) {
         Text(text = label, style = MaterialTheme.typography.bodyLarge, fontWeight = FontWeight.SemiBold)
         Spacer(Modifier.height(8.dp))
-        Button(onClick = {}, colors = ButtonDefaults.buttonColors(containerColor = Color(0xFFEAD0B6))) {
-            Text(value, color = Color(0xFF000000))
+        Surface(
+            modifier = Modifier
+                .fillMaxWidth()
+                .clickable(onClick = onClick),
+            color = Color(0xFFEAD0B6),
+            shape = RoundedCornerShape(5.dp),
+            border = BorderStroke(1.dp, Color(0xFFB9A9AA))
+        ) {
+            Row(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(horizontal = 12.dp, vertical = 10.dp),
+                horizontalArrangement = Arrangement.SpaceBetween,
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Text(value, color = Color(0xFF000000))
+                Icon(Icons.Filled.KeyboardArrowRight, contentDescription = "Cambiar")
+            }
         }
     }
 }
