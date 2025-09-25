@@ -57,10 +57,10 @@ com.example.maquetacionmobile.app-annotation-experimental-1.4.0-55 C:\Users\feli
 com.example.maquetacionmobile.app-animation-release-56 C:\Users\felip\.gradle\caches\9.0-milestone-1\transforms\f9301106c77f5df7c9001c320ab46f15\transformed\animation-release\res
 com.example.maquetacionmobile.app-navigation-common-ktx-2.7.7-57 C:\Users\felip\.gradle\caches\9.0-milestone-1\transforms\fde88c4f3a3738b2b5cb6e096ff4609d\transformed\navigation-common-ktx-2.7.7\res
 com.example.maquetacionmobile.app-runtime-saveable-release-58 C:\Users\felip\.gradle\caches\9.0-milestone-1\transforms\feb33da4ef0c3a5878a868038af18f83\transformed\runtime-saveable-release\res
-com.example.maquetacionmobile.app-pngs-59 C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\build\generated\res\pngs\debug
-com.example.maquetacionmobile.app-resValues-60 C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\build\generated\res\resValues\debug
-com.example.maquetacionmobile.app-packageDebugResources-61 C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.maquetacionmobile.app-packageDebugResources-62 C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.maquetacionmobile.app-debug-63 C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.maquetacionmobile.app-debug-64 C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\debug\res
-com.example.maquetacionmobile.app-main-65 C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\res
+com.example.maquetacionmobile.app-pngs-59 C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\build\generated\res\pngs\debug
+com.example.maquetacionmobile.app-resValues-60 C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\build\generated\res\resValues\debug
+com.example.maquetacionmobile.app-packageDebugResources-61 C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.maquetacionmobile.app-packageDebugResources-62 C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.maquetacionmobile.app-debug-63 C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.maquetacionmobile.app-debug-64 C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\debug\res
+com.example.maquetacionmobile.app-main-65 C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\res

@@ -20,41 +20,41 @@
 15-->[androidx.core:core:1.13.1] C:\Users\felip\.gradle\caches\9.0-milestone-1\transforms\9c95af8a3d8e23b4851e56a1d877f495\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:3:5-19:19
+17-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:3:5-19:19
 18        android:name="com.example.maquetacionmobile.App"
-18-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:4:9-28
+18-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:4:9-28
 19        android:allowBackup="true"
-19-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:5:9-35
+19-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:5:9-35
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 20-->[androidx.core:core:1.13.1] C:\Users\felip\.gradle\caches\9.0-milestone-1\transforms\9c95af8a3d8e23b4851e56a1d877f495\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
-23        android:icon="@drawable/logo_01"
-23-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:6:9-41
+23        android:icon="@drawable/logo"
+23-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:6:9-38
 24        android:label="@string/app_name"
-24-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:7:9-41
-25        android:roundIcon="@drawable/logo_01"
-25-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:8:9-46
+24-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:7:9-41
+25        android:roundIcon="@drawable/logo"
+25-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:8:9-43
 26        android:supportsRtl="true"
-26-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:9:9-35
+26-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:9:9-35
 27        android:testOnly="true"
 28        android:theme="@style/Theme.MaquetacionMobile" >
-28-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:10:9-55
+28-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:10:9-55
 29        <activity
-29-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:11:9-18:20
+29-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:11:9-18:20
 30            android:name="com.example.maquetacionmobile.MainActivity"
-30-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:12:13-41
+30-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:12:13-41
 31            android:exported="true" >
-31-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:13:13-36
+31-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:13:13-36
 32            <intent-filter>
-32-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:14:13-17:29
+32-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:14:13-17:29
 33                <action android:name="android.intent.action.MAIN" />
-33-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:15:17-69
-33-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:15:25-66
+33-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:15:17-69
+33-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:15:25-66
 34
 35                <category android:name="android.intent.category.LAUNCHER" />
-35-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:16:17-77
-35-->C:\Users\felip\OneDrive\Escritorio\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:16:27-74
+35-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:16:17-77
+35-->C:\Users\felip\OneDrive\Escritorio\UX maestria\Maquetaci-n-Mobile\app\src\main\AndroidManifest.xml:16:27-74
 36            </intent-filter>
 37        </activity>
 38        <activity

@@ -1,0 +1,63 @@
+com.example.maquetacionmobile.app-lifecycle-viewmodel-ktx-2.6.2-0 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\01d38439eea2a3ae398264248d8fbaea\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.maquetacionmobile.app-customview-poolingcontainer-1.0.0-1 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\026931ac0961ad4d20337aa632d4908a\transformed\customview-poolingcontainer-1.0.0\res
+com.example.maquetacionmobile.app-appcompat-resources-1.6.1-2 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\0abe82856f6658e4c5657f3e9530169c\transformed\appcompat-resources-1.6.1\res
+com.example.maquetacionmobile.app-animation-core-release-3 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\10871f99d018c0d668caaeea48c73b7c\transformed\animation-core-release\res
+com.example.maquetacionmobile.app-emoji2-views-helper-1.3.0-4 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\10d7053bbd81008b54f36de5b99d2380\transformed\emoji2-views-helper-1.3.0\res
+com.example.maquetacionmobile.app-viewpager2-1.0.0-5 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\14b1a7e97c97b239b77eac5b3329eafe\transformed\viewpager2-1.0.0\res
+com.example.maquetacionmobile.app-constraintlayout-2.0.1-6 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\15f4a640c7207b24b0b3a9bf0413ea98\transformed\constraintlayout-2.0.1\res
+com.example.maquetacionmobile.app-navigation-common-2.7.7-7 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\16f67fa8c60ec81fa19ce170fcdbb322\transformed\navigation-common-2.7.7\res
+com.example.maquetacionmobile.app-recyclerview-1.1.0-8 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\2162f8678cd6a2d8541c621ada9a443b\transformed\recyclerview-1.1.0\res
+com.example.maquetacionmobile.app-lifecycle-livedata-2.6.2-9 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\22ffc08db857f1829fabdd7e5570bed6\transformed\lifecycle-livedata-2.6.2\res
+com.example.maquetacionmobile.app-activity-ktx-1.9.1-10 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\26e885c8adf482929dc9f6ee544dad48\transformed\activity-ktx-1.9.1\res
+com.example.maquetacionmobile.app-lifecycle-viewmodel-savedstate-2.6.2-11 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\2a936a468fcff9fc7236438018e4a648\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.maquetacionmobile.app-material-icons-extended-release-12 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\300e218237ded892e143b61b2d4e2de0\transformed\material-icons-extended-release\res
+com.example.maquetacionmobile.app-lifecycle-runtime-2.6.2-13 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\36f350ffd92d57b0f6d44b8b455024f7\transformed\lifecycle-runtime-2.6.2\res
+com.example.maquetacionmobile.app-cardview-1.0.0-14 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\37627f678832c2e51a018e5924f53fb8\transformed\cardview-1.0.0\res
+com.example.maquetacionmobile.app-navigation-compose-2.7.7-15 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\3a8168fdb1b318834eafd9643c8b0013\transformed\navigation-compose-2.7.7\res
+com.example.maquetacionmobile.app-fragment-1.3.6-16 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\3b0901740f43c77e1328f3eb7cc4eddd\transformed\fragment-1.3.6\res
+com.example.maquetacionmobile.app-material3-release-17 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\469562ba80554112d2d16491a2be7d3b\transformed\material3-release\res
+com.example.maquetacionmobile.app-navigation-runtime-2.7.7-18 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\52eb43246b772609caf183b207dc7dac\transformed\navigation-runtime-2.7.7\res
+com.example.maquetacionmobile.app-runtime-release-19 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\5a27b9916eedbf23c1acb556331c10b1\transformed\runtime-release\res
+com.example.maquetacionmobile.app-drawerlayout-1.1.1-20 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\5f2031e6d8b044ea6cd4ebb9c6170b82\transformed\drawerlayout-1.1.1\res
+com.example.maquetacionmobile.app-ui-text-release-21 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\5f90c8e40c3b3f9491d9402b096abfd7\transformed\ui-text-release\res
+com.example.maquetacionmobile.app-lifecycle-viewmodel-compose-2.6.2-22 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\740ea6e784a5836ac2e4f3e1a9296ac5\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.example.maquetacionmobile.app-core-ktx-1.13.1-23 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\767b67822d890de5e316b686d641182b\transformed\core-ktx-1.13.1\res
+com.example.maquetacionmobile.app-core-runtime-2.2.0-24 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\7cdc6fb3328522216739ceb15d36acb8\transformed\core-runtime-2.2.0\res
+com.example.maquetacionmobile.app-activity-compose-1.9.1-25 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\7e310d4755c6fa9844c672f941ac0c18\transformed\activity-compose-1.9.1\res
+com.example.maquetacionmobile.app-transition-1.5.0-26 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\7f2702f9ba785e3f9945d39ab983b641\transformed\transition-1.5.0\res
+com.example.maquetacionmobile.app-material-1.12.0-27 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\7f97d264f13aac2ced4fd6a3f60e52ba\transformed\material-1.12.0\res
+com.example.maquetacionmobile.app-startup-runtime-1.1.1-28 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\894c21c52da33fa9d858ed52031955b0\transformed\startup-runtime-1.1.1\res
+com.example.maquetacionmobile.app-ui-geometry-release-29 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\8d14f976ef95db09bbda015a55eba63a\transformed\ui-geometry-release\res
+com.example.maquetacionmobile.app-activity-1.9.1-30 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\956255c5c7fa8dc2c6b5a3f85ba7eb8c\transformed\activity-1.9.1\res
+com.example.maquetacionmobile.app-coordinatorlayout-1.1.0-31 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\9c23310ed0dd6d4c01fe27f931526ae9\transformed\coordinatorlayout-1.1.0\res
+com.example.maquetacionmobile.app-core-1.13.1-32 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\9c95af8a3d8e23b4851e56a1d877f495\transformed\core-1.13.1\res
+com.example.maquetacionmobile.app-lifecycle-livedata-core-2.6.2-33 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\a0466e0da36020385f1c5c71e46b57bc\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.maquetacionmobile.app-lifecycle-viewmodel-2.6.2-34 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\a220b2f3868d2d19faa6e8140a3f3308\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.maquetacionmobile.app-lifecycle-process-2.6.2-35 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\a46dcffeb17d4b664be99c9350810fcb\transformed\lifecycle-process-2.6.2\res
+com.example.maquetacionmobile.app-savedstate-1.2.1-36 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\a632e5f32eec3c965c6e5bbd6ff1f517\transformed\savedstate-1.2.1\res
+com.example.maquetacionmobile.app-material-icons-core-release-37 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\b0f8f883ab6e987ce202ae3f3a3281d0\transformed\material-icons-core-release\res
+com.example.maquetacionmobile.app-ui-graphics-release-38 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\b667aa413c4e93d0e52b6c8e34914601\transformed\ui-graphics-release\res
+com.example.maquetacionmobile.app-navigation-runtime-ktx-2.7.7-39 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\b8205d04fc0441562366227ab6864c10\transformed\navigation-runtime-ktx-2.7.7\res
+com.example.maquetacionmobile.app-material-ripple-release-40 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\c192914a0bffe90c04ca4ce3c53f7c1a\transformed\material-ripple-release\res
+com.example.maquetacionmobile.app-foundation-release-41 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\c43884aefe023931007242ea8dab5dc2\transformed\foundation-release\res
+com.example.maquetacionmobile.app-ui-release-42 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\c581462885c120e99525499af0d44f02\transformed\ui-release\res
+com.example.maquetacionmobile.app-appcompat-1.6.1-43 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\c7b5e33bc5dfb7b7af55b8aae112de60\transformed\appcompat-1.6.1\res
+com.example.maquetacionmobile.app-profileinstaller-1.3.1-44 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\ca41c0be720d42967e8a8d14edc0d9b2\transformed\profileinstaller-1.3.1\res
+com.example.maquetacionmobile.app-savedstate-ktx-1.2.1-45 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\d6b2ffe249d7d860b567105556e2aafe\transformed\savedstate-ktx-1.2.1\res
+com.example.maquetacionmobile.app-ui-unit-release-46 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\d6e3879189541a1825895a55692103dc\transformed\ui-unit-release\res
+com.example.maquetacionmobile.app-ui-tooling-preview-release-47 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\dfe608bc34004f9ac015ddc69008e2ef\transformed\ui-tooling-preview-release\res
+com.example.maquetacionmobile.app-foundation-layout-release-48 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\e0b4cbb8b946a5cf9ea271660d8e7a4c\transformed\foundation-layout-release\res
+com.example.maquetacionmobile.app-lifecycle-runtime-ktx-2.6.2-49 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\e763a584353820d6b0fe6d561c58e9e4\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.maquetacionmobile.app-emoji2-1.3.0-50 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\ebd423f1d880bd449ad65cf82e576d03\transformed\emoji2-1.3.0\res
+com.example.maquetacionmobile.app-ui-util-release-51 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\ec94c265d75b7d61fe741b4f31f09c23\transformed\ui-util-release\res
+com.example.maquetacionmobile.app-annotation-experimental-1.4.0-52 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\f56824352ee741165c76288aeb2ecbb4\transformed\annotation-experimental-1.4.0\res
+com.example.maquetacionmobile.app-animation-release-53 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\f9301106c77f5df7c9001c320ab46f15\transformed\animation-release\res
+com.example.maquetacionmobile.app-navigation-common-ktx-2.7.7-54 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\fde88c4f3a3738b2b5cb6e096ff4609d\transformed\navigation-common-ktx-2.7.7\res
+com.example.maquetacionmobile.app-runtime-saveable-release-55 C:\Users\JUANITA\.gradle\caches\9.0-milestone-1\transforms\feb33da4ef0c3a5878a868038af18f83\transformed\runtime-saveable-release\res
+com.example.maquetacionmobile.app-pngs-56 C:\Users\JUANITA\OneDrive - Universidad de los Andes\Documentos\UNIVERSIDAD\2025-02\UX mejoramiento experiencia usario\Maquetaci-n-Mobile\app\build\generated\res\pngs\release
+com.example.maquetacionmobile.app-resValues-57 C:\Users\JUANITA\OneDrive - Universidad de los Andes\Documentos\UNIVERSIDAD\2025-02\UX mejoramiento experiencia usario\Maquetaci-n-Mobile\app\build\generated\res\resValues\release
+com.example.maquetacionmobile.app-packageReleaseResources-58 C:\Users\JUANITA\OneDrive - Universidad de los Andes\Documentos\UNIVERSIDAD\2025-02\UX mejoramiento experiencia usario\Maquetaci-n-Mobile\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.maquetacionmobile.app-packageReleaseResources-59 C:\Users\JUANITA\OneDrive - Universidad de los Andes\Documentos\UNIVERSIDAD\2025-02\UX mejoramiento experiencia usario\Maquetaci-n-Mobile\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.maquetacionmobile.app-release-60 C:\Users\JUANITA\OneDrive - Universidad de los Andes\Documentos\UNIVERSIDAD\2025-02\UX mejoramiento experiencia usario\Maquetaci-n-Mobile\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.maquetacionmobile.app-main-61 C:\Users\JUANITA\OneDrive - Universidad de los Andes\Documentos\UNIVERSIDAD\2025-02\UX mejoramiento experiencia usario\Maquetaci-n-Mobile\app\src\main\res
+com.example.maquetacionmobile.app-release-62 C:\Users\JUANITA\OneDrive - Universidad de los Andes\Documentos\UNIVERSIDAD\2025-02\UX mejoramiento experiencia usario\Maquetaci-n-Mobile\app\src\release\res

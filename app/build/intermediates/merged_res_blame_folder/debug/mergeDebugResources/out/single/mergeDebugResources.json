@@ -1,6 +1,30 @@
 [
     {
-        "merged": "com.example.maquetacionmobile.app-debug-63:/drawable_logo_01.png.flat",
-        "source": "com.example.maquetacionmobile.app-main-65:/drawable/logo_01.png"
+        "merged": "com.example.maquetacionmobile.app-debug-63:/drawable_profilepicture.png.flat",
+        "source": "com.example.maquetacionmobile.app-main-65:/drawable/profilepicture.png"
+    },
+    {
+        "merged": "com.example.maquetacionmobile.app-debug-63:/drawable_download.png.flat",
+        "source": "com.example.maquetacionmobile.app-main-65:/drawable/download.png"
+    },
+    {
+        "merged": "com.example.maquetacionmobile.app-debug-63:/drawable_star.png.flat",
+        "source": "com.example.maquetacionmobile.app-main-65:/drawable/star.png"
+    },
+    {
+        "merged": "com.example.maquetacionmobile.app-debug-63:/drawable_calendar.png.flat",
+        "source": "com.example.maquetacionmobile.app-main-65:/drawable/calendar.png"
+    },
+    {
+        "merged": "com.example.maquetacionmobile.app-debug-63:/drawable_profile.png.flat",
+        "source": "com.example.maquetacionmobile.app-main-65:/drawable/profile.png"
+    },
+    {
+        "merged": "com.example.maquetacionmobile.app-debug-63:/drawable_checked.png.flat",
+        "source": "com.example.maquetacionmobile.app-main-65:/drawable/checked.png"
+    },
+    {
+        "merged": "com.example.maquetacionmobile.app-debug-63:/drawable_logo.png.flat",
+        "source": "com.example.maquetacionmobile.app-main-65:/drawable/logo.png"
     }
 ]
