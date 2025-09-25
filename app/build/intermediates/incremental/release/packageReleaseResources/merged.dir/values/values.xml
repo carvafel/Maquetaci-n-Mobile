@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maquetacion Mobile</string>
+    <style name="Theme.MaquetacionMobile" parent="Theme.Material3.DayNight.NoActionBar">
+        
+    </style>
+</resources>
